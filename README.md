@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **patilchaitanyaom@gmail.com**
 
+- ⚡ Fun fact **I am from VIT Bhopal**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/patilchai9705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patilchai9705" height="30" width="40" /></a>
