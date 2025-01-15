@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **patilchaitanyaom@gmail.com**
 
-- ⚡ Fun fact **I am from VIT Bhopal**
+- ⚡ Fun fact **I am from VIT **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
