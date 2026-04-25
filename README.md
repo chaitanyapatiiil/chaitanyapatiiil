@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatiiil" alt="chaitanyapatiiil" /></a> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency Arbitrage Scanner**
+- 🔭 I’m currently working on **Quant Alpha Engine**
 
 - 📫 How to reach me **patilchaitanyaom@gmail.com**
 
