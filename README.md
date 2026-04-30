@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Patil</h1>
+<h1 align="center">Hi 👋, I'm Chaitanya </h1>
 <h3 align="center">Aspiring Data Scientist | Software Developer | Quantitative Research Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyapatiiil&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyapatiiil" /> </p>
